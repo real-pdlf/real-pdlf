@@ -5,7 +5,7 @@
 - 📫 Reach me at gabrielarcanjocontato04@gmail.com or at: https://royalpandalfuul.carrd.co/
 
 <div align='center'>
-  <a href="https://royalpandalfuul.carrd.co/">
+  <a target="_blank" href="https://royalpandalfuul.carrd.co/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoyalPandalfuul&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalPandalfuul&layout=compact&theme=tokyonight">
   </a>
@@ -13,10 +13,10 @@
 
 ### Check my coding sites here too:
 <div align='center'>
-  <a href="https://www.codewars.com/users/Royal%20Pandalfuul">
+  <a target="_blank" href="https://www.codewars.com/users/Royal%20Pandalfuul">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
   </a>
-  <a href="https://www.codingame.com/profile/77de2a9a366d5acbeb77068d03037f198717184">
+  <a target="_blank" href="https://www.codingame.com/profile/77de2a9a366d5acbeb77068d03037f198717184">
     <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white">
   </a>
 </div>
