@@ -5,10 +5,10 @@
 - 📫 Reach me at gabrielarcanjocontato04@gmail.com or at: https://royalpandalfuul.carrd.co/
 
 <div align='center'>
-  <a target="_blank" href="https://royalpandalfuul.carrd.co/">
+  <a></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoyalPandalfuul&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalPandalfuul&layout=compact&theme=tokyonight">
-  </a>
+  <a></a>
 </div>
 
 ### Check my coding sites here too:
