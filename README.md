@@ -4,13 +4,14 @@
 - ✨ Also I’m looking to collaborate in any internship and open projects :)
 - 📫 Reach me at gabrielarcanjocontato04@gmail.com or at: https://royalpandalfuul.carrd.co/
 
+<!--
 <div align='center'>
   <a></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoyalPandalfuul&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalPandalfuul&layout=compact&theme=tokyonight">
   <a></a>
 </div>
-
+-->
 ### Check my coding sites here too:
 <div align='center'>
   <a target="_blank" href="https://www.codewars.com/users/Royal%20Pandalfuul">
