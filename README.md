@@ -1,6 +1,6 @@
 # 👋 Heyo!, I’m @RoyalPandalfuul
 ### I’m interested in Python programming, data science and Machile learning :D
-- currently i am studying systems development in a associate's degeree and trying to improve every day!
+- currently i am studying software development in a associate's degeree and trying to improve every day!
 - ✨ Also I’m looking to collaborate in any internship and open projects :)
 - 📫 Reach me at gabrielarcanjocontato04@gmail.com or at: https://royalpandalfuul.tech
 
